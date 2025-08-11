@@ -1,13 +1,13 @@
 # App Orçamento Pessoal
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeangregolon/app-orcamento-pessoal-js/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/manoeltelmar/app-orcamento-pessoal-js/blob/main/LICENSE)
 
-Nesta aplicação é possível cadastrar gastos com data, categoria, descrição e valor. Depois, pode ser feita uma busca dos gastos pelos campos cadastrados. Foi desenvolvida no curso Desenvolvimento Web Completo ministrado por Jamilton Damasceno e Jorge Sant'Ana na Udemy.
+Nesta aplicação é possível cadastrar gastos com data, categoria, descrição e valor. Depois, pode ser feita uma busca dos gastos pelos campos cadastrados.
 
 Página de cadastro:
-![Página de cadastro](https://github.com/jeangregolon/assets/blob/main/app-orcamento-pessoal-cadastro.png)
+![Página de cadastro](https://github.com/manoeltelmar/assets/blob/main/app-orcamento-pessoal-cadastro.png)
 
 Página de consulta:
-![Página de consulta](https://github.com/jeangregolon/assets/blob/main/app-orcamento-pessoal-consulta.png)
+![Página de consulta](https://github.com/mnoeltelmar/assets/blob/main/app-orcamento-pessoal-consulta.png)
 
 # Tecnologias utilizadas
 - JavaScript
@@ -19,7 +19,7 @@ Pré-requisitos: navegador web
 
 ```bash
 # clonar repositório
-git clone https://github.com/jeangregolon/calculadora-java
+git clone https://github.com/manoeltelmar/calculadora-java
 
 # abrir o arquivo index.html em qualquer navegador web
 
@@ -28,4 +28,4 @@ git clone https://github.com/jeangregolon/calculadora-java
 
 Jean Gregolon
 
-https://www.linkedin.com/in/jeangregolon/
+https://www.linkedin.com/in/mmoeltelmar/
